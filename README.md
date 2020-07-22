@@ -9,7 +9,7 @@ and yes, i'm a furry, kthx
 
 ### Contact me:
 E-mail: <b>doges@switchblade.xyz</b>\
-Discord: <b>Doges#5183</b> <img align="right" width="165" height="75" src="https://i.imgur.com/3PosutA.png">
+Discord: <b>Doges#5183</b> <img align="right" width="170" height="100" src="https://i.imgur.com/mOziwDB.png">
 
 
 #### Pronouns: "McDonnell Douglas F-15 Eagle"
