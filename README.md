@@ -1,7 +1,6 @@
 <img align="left" width="188" height="183" src="https://i.imgur.com/u9EArHV.jpeg"> Hi there, I'm <b>Doges</b>
 
-I'm working at [REDACTED] as [REDACTED] since 2019, I make machines fail using pneumatic and hydraulic mechanisms
-and yes, i'm a furry, kthx
+yeah i'm a furry
 
 ### Useful URLs
 [My Website](https://communismdoesnot.works "My website")\
@@ -9,7 +8,7 @@ and yes, i'm a furry, kthx
 
 ### Contact me:
 E-mail: <b>doges@switchblade.xyz</b>\
-Discord: <b>Doges#5183</b> <img align="right" width="170" height="100" src="https://i.imgur.com/mOziwDB.png">
+Discord: <b>Doges#5183</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Doges&show_icons=true" />
