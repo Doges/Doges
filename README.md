@@ -1,6 +1,6 @@
 <img align="left" width="188" height="183" src="https://i.imgur.com/u9EArHV.jpeg"> Hi there, I'm <b>Doges</b>
 
-yeah i'm a furry
+and yeah i'm a furry
 
 ### Useful URLs
 [My Website](https://communismdoesnot.works "My website")\
