@@ -3,7 +3,6 @@
 and yeah i'm a furry
 
 ### Useful URLs
-[My Website](https://communismdoesnot.works "My website")\
 [Switchblade Repo](https://github.com/SwitchbladeBot/switchblade "Switchblade")
 
 ### Contact me:
@@ -11,7 +10,7 @@ E-mail: <b>doges@switchblade.xyz</b>\
 Discord: <b>Doges#5183</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Doges&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Doges&show_icons=true&theme=dark" />
 </a>
 <!--
 **Doges/Doges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
