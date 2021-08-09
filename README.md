@@ -1,4 +1,4 @@
-<img align="left" width="188" height="183" src="https://i.imgur.com/u9EArHV.jpeg"> Hi there, I'm <b>Doges</b>
+<img align="left" width="188" height="183" src="https://i.imgur.com/u9EArHV.jpeg"> Hi! I'm <b>Doges</b>
 
 and yeah i'm a furry
 
