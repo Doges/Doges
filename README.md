@@ -1,28 +1,8 @@
-<img align="left" width="188" height="183" src="https://i.imgur.com/u9EArHV.jpeg"> Hi! I'm <b>Doges</b>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Doges&show_icons=true&theme=github_dark&hide_border=true&icon_color=faae30" /></a>
+<h2>Welcome!</h2>
 
-and yeah i'm a furry
+<p>Hi there! I'm <b>Doges</b>, I'm a brazilian developer that really like cars and I'm currently working on <b><a href="https://github.com/SwitchbladeBot/switchblade">Switchblade</a></b> project and on <b>Integrated Brazilian ALPR System.</b></p>
+<h2>Useful information</h2>
 
-### Useful URLs
-[Switchblade Repo](https://github.com/SwitchbladeBot/switchblade "Switchblade")
-
-### Contact me:
-E-mail: <b>doges@switchblade.xyz</b>\
-Discord: <b>Doges#5183</b>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Doges&show_icons=true&theme=dark" />
-</a>
-<!--
-**Doges/Doges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://img.shields.io/badge/Javascript-0d1117?logo=javascript&style=flat-square&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/Webstorm-0d1117?logo=webstorm&style=flat-square&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/Windows-0d1117?logo=windows&style=flat-square&logoColor=white" /> <a href="https://twitter.com/xDoges"><img align="left" src="https://img.shields.io/badge/Twitter-0d1117?logo=twitter&style=flat-square&logoColor=white" /></a> <a href="https://steamcommunity.com/id/xunbanned"><img align="left" src="https://img.shields.io/badge/Steam-0d1117?logo=steam&style=flat-square&logoColor=white" /></a> <a href="https://twitch.tv/bolsonaro"><img align="left" src="https://img.shields.io/badge/Twitch-0d1117?logo=twitch&style=flat-square&logoColor=white" /></a>
+<br>
